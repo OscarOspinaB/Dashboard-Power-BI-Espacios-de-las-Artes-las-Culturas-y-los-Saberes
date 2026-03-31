@@ -4,6 +4,8 @@ Dada la limitación de la licencia que tengo de Power BI, no se puede interactua
 
 Por ahora pueden ver capturas de pantalla a modo de ejemplo de cómo funciona el informe.
 
+Mínimo producto viable, se espera actualizar el informe proximamente.
+
 # 📊 [Click_Dashboard_interactivo](https://app.powerbi.com/view?r=eyJrIjoiY2I2NTRiMzUtMzI1Ny00MDFlLWE0ZDItZWQ1NzI3MzY1Y2IxIiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9)
 
 ## Fuente de los datos
@@ -29,9 +31,11 @@ Para la conexión con los datos utilicé la siguiente configuración de la API p
 
 <img width="1377" height="695" alt="image" src="https://github.com/user-attachments/assets/d8af7beb-d9fd-461c-a844-e19ea66476fa" />
 
-# 03 Ejm filtro por departamento 'Antioquia' y ciudad 'Medellín'
+# 03 Ejm filtro por departamento 'Antioquia'
+<img width="1198" height="681" alt="image" src="https://github.com/user-attachments/assets/6468b54e-de98-4fea-93b2-52ef77d124f0" />
 
+# 04 Ejm filtro por departamento 'Antioquia' y ciudad 'Medellín'
 <img width="1225" height="697" alt="image" src="https://github.com/user-attachments/assets/fc6c2f96-e760-4175-9ea7-878334ad7434" />
 
 
-Por ahora es un mínimo producto viable, se espera actualizar el informe proximamente.
+
