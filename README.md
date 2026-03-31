@@ -15,6 +15,8 @@ Para la conexión con los datos utilicé la siguiente configuración de la API p
 
 <img width="1388" height="845" alt="image" src="https://github.com/user-attachments/assets/05ed6a3a-ee20-4480-977c-0d7dfdb5aa0b" />
 
+
+Dada la limitación de la licencia que tengo de Power BI, no se puede interactuar con el mapa en la web, solamente desde mi Power BI Desktop, no obstante, espero subir un vídeo corto de cómo es la interacción.
 ---
 # 01 Vistazo General Dashboard
 <img width="1221" height="730" alt="image" src="https://github.com/user-attachments/assets/659ea964-bdf5-441a-86bb-fb2b4f3bbbf4" />
