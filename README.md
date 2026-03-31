@@ -5,6 +5,12 @@
 ## Fuente de los datos
 Los datos utilizados fueron obtenidos de [datos.gov](https://www.datos.gov.co/Cultura/Espacios-de-las-Artes-las-Culturas-y-los-Saberes/te39-v28f/about_data)
 
+Sino pueden acceder al link, simplemente copiar y pegar el siguiente enlace:
+https://www.datos.gov.co/Cultura/Espacios-de-las-Artes-las-Culturas-y-los-Saberes/te39-v28f/about_data
+
+<img width="1867" height="692" alt="image" src="https://github.com/user-attachments/assets/88ce2457-fb98-4840-addb-ef0b5086f2e0" />
+
+
 Para la conexión con los datos utilicé la siguiente configuración de la API para exportar los datos formato Json
 
 <img width="1388" height="845" alt="image" src="https://github.com/user-attachments/assets/05ed6a3a-ee20-4480-977c-0d7dfdb5aa0b" />
