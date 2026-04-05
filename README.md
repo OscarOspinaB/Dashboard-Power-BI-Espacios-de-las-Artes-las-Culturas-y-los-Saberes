@@ -1,6 +1,6 @@
 # Dashboard-Power-BI-Espacios-de-las-Artes-las-Culturas-y-los-Saberes
 
-Mínimo producto viable, se espera actualizar el informe proximamente.
+Mínimo producto viable, se espera actualizar el informe con mejoras proximamente.
 
 # 📊 [Click_Dashboard_interactivo](https://app.powerbi.com/view?r=eyJrIjoiY2I2NTRiMzUtMzI1Ny00MDFlLWE0ZDItZWQ1NzI3MzY1Y2IxIiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9)
 
