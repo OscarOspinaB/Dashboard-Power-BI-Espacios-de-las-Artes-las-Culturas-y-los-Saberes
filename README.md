@@ -23,16 +23,12 @@ Cómo se puede apreciar en la imagen anterior, solo importé 1000 datos por defe
 Nota: en el código anterior se aprecia que el límite de filas o registros es de treinta mil
 
 Si se desea conocer cómo aumentar el límite de filas o registros que se pueden exportar al Power BI, ir al final del texto.
-A modo de ejemplo se muestra la guía para aumentar el límite de filas:
 
-* Suponga que exportÓ el siguiente enlace de la API:
-<img width="786" height="778" alt="image" src="https://github.com/user-attachments/assets/27c51238-b23d-4466-a152-4ab6a8de27d0" />
+## Actualización programada
+El informe está programado para actualizarse todos los días a las 5 am (Colombia)
 
-* Por defecto, tenemos 1000 filas para exportar, con lo cual establecemos manualmente el límite de filas a 30000 copiando y pegando #?$limit=30000
+<img width="1591" height="198" alt="image" src="https://github.com/user-attachments/assets/a9015abf-14de-4001-b020-4d6c0df2ffca" />
 
-  https://www.datos.gov.co/resource/te39-v28f.json?$limit=30000
-
-Lo anterior sirve para incrementar el límite de registros que exportas al Power BI.
 ---
 # 01 Vistazo General Dashboard
 Cabe señalar que se puede desplazar por el mapa a gusto personal, así como aplicar zoom en el mismo
